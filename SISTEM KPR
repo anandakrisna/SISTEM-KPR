@@ -1,5 +1,6 @@
 // IMPORT LIBRARY
 // =====================================================
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -86,19 +87,19 @@ int main(){
 			printf("===============================================================================================\n");
 			printf("===============================================================================================\n");
 			printf("========================== PROGRAM PERHITUNGAN KREDIT RUMAH (KPR) =============================\n");
-			printf("================================== PEMROGRAMAN LANJUT =========================================\n");
+			printf("================================== PEMROGRAMAN LANJUT D081=====================================\n");
 			printf("====================================== KELOMPOK 1 =============================================\n");
 			printf("===============================================================================================\n");
 			printf("===============================================================================================\n");
 
 			printf("\n MAIN MENU:");
 			printf("\n [1]. Daftar Tipe Rumah");
-			printf("\n [2]. Simulasi KPR");
-			printf("\n [3]. Buat Data Baru");
+			printf("\n [2]. Simulasi Perhitungan KPR");
+			printf("\n [3]. Buat Data Baru Rumah");
 			printf("\n [4]. Urutkan Tipe Rumah");
 			printf("\n [5]. Cari Tipe Rumah");
 			printf("\n [6]. Hapus Data Rumah");
-			printf("\n [7]. Syarat-syarat dan Dokumen");
+			printf("\n [7]. Syarat-syarat dan Dokumen KPR");
 			printf("\n [8]. Keluar");
 			printf("\n\n Input Pilihan Nomor Menu : ");
 			scanf("%d", &pilihan);
